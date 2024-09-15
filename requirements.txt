@@ -1,0 +1,2 @@
+streamlit==1.25.0  # Ensure compatibility with the version you're using
+pandas==2.1.1      # For handling CSV and Excel data
