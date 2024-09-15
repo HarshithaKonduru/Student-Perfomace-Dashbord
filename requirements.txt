@@ -1,4 +1,2 @@
 streamlit==1.23.1
 pandas==1.4.4
-Pillow==9.4.0
-numpy==1.23.5
